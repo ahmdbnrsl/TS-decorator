@@ -1,0 +1,16 @@
+{
+    "name": "ts-decorator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc -b && node ./dist/main",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "reflect-metadata": "^0.2.2"
+    }
+}
